@@ -18,7 +18,7 @@ For demo you can check the <b>[©StarKingAutoCaptionBot](https://telegram.me/Sta
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/sanultemp/StarKingAutoCaption/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/StarKingDevelopers/StarKing-AutoCaption/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
