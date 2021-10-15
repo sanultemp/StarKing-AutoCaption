@@ -66,7 +66,7 @@ async def callback_data(client, update: CallbackQuery):
         reply_markup = InlineKeyboardMarkup(buttons)
 
         await update.message.edit_text(
-            f"""<b><u>🔻Current Caption</u>🔻\n\n<code>Name: {CP}\n\n@PSALKSERIES</code>\n\n'Current Caption' is not stable.😅 I'll give you, **Custom Caption** mode in next update.♥\n\n🎥Join to Our °𝗙𝗟𝗜𝗫 𝗖𝗜𝗡𝗘𝗠𝗔° channel for get latest Movies.\n\n {MT}</b>""",
+            f"""<b><u>🔻Current Caption</u>🔻\n\n<code>{CP}\n\n𝗙𝗟𝗜𝗫 𝗖𝗜𝗡𝗘𝗠𝗔 ™°\n@Flix_CinemaSL</code>\n\n'Current Caption' is not stable.😅 I'll give you, **Custom Caption** mode in next update.♥\n\n🎥Join to Our °𝗙𝗟𝗜𝗫 𝗖𝗜𝗡𝗘𝗠𝗔° channel for get latest Movies.\n\n {MT}</b>""",
             reply_markup=reply_markup,
             parse_mode="html"
         )
