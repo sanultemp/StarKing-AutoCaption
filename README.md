@@ -24,14 +24,6 @@ For demo you can check the <b>[©StarKingAutoCaptionBot](https://telegram.me/Sta
 </p>
 </details>
 
-<details><summary>Tutorial Video</summary>
-<p>
-<br>
-<a href="https://youtu.be/p4Z9ZN1lZUk"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/p4Z9ZN1lZUk?style=social">
-</a>
-</p>
-</details>
-
 <details><summary>Credits</summary>
 <p>
 <pre>
